@@ -9,10 +9,12 @@ This project aims to control a car's direction and speed using hand or finger mo
 - Thumb posture determines the speed of the motors.
 
 ## Car Module
-![Car Module](https://github.com/eslamwaled150/Controlling-Car-with-Hand-Mtion/assets/92927283/7e673388-79cd-4c2b-a465-1c7d3b0d845f)
+![image](https://github.com/eslamwaled150/Controlling-Car-with-Hand-Motion/assets/92927283/b4cccb54-d615-4613-82a9-a17d90ad2d39)
+
 
 ## Hand Module
-![Hand Module](https://github.com/eslamwaled150/Controlling-Car-with-Hand-Mtion/assets/92927283/af657817-adb5-4b69-9959-e4bdcee19e34)
+![image](https://github.com/eslamwaled150/Controlling-Car-with-Hand-Motion/assets/92927283/971b451c-b254-4702-b102-e904c3d2acc6)
+
 
 ## Specifications
 ### Flexible Sensor & BT Module
@@ -39,7 +41,7 @@ This project aims to control a car's direction and speed using hand or finger mo
 9. **Caster Wheel**.
 10. **Chassis**
 
-![Chassis](https://github.com/eslamwaled150/Controlling-Car-with-Hand-Mtion/assets/92927283/aaf7de2a-a806-45e7-8e4a-baa1c20b60d7)
+![image](https://github.com/eslamwaled150/Controlling-Car-with-Hand-Motion/assets/92927283/efad24b6-7abf-4ec4-b1ce-3e5fa84eeaf3)
 
 ## How to Use
 1. Assemble the hardware components according to the provided diagram.
