@@ -18,7 +18,7 @@ This project aims to control a car's direction and speed using hand or finger mo
 
 ## Specifications
 ### Flexible Sensor & BT Module
-- Each finger has an individual sensor to control the car's direction and speed.
+- Each finger has an individual flexible sensor, the thumb controls the car's speed and the other fingers control its direction.
 - Motion of fingers is detected and used to control the car's motors.
 
 ### L293D, BT Module, LCD
