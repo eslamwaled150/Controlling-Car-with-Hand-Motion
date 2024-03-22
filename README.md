@@ -10,8 +10,8 @@
 # Hand Module
 ![image](https://github.com/eslamwaled150/Controlling-Car-with-Hand-Mtion/assets/92927283/af657817-adb5-4b69-9959-e4bdcee19e34)
 # Specifications –Flexible Sensor, BT module
-##### 1-BT module after receiving the fingers’ posture, L293D must activate the motor direction.
-##### 2-LCD displays the current direction that car immediately move.
+##### 1-They are used to detect any motion of fingers, every finger must has an individually one.
+##### 2-According to the position of pack of fingers, the relative motion of motors will be sent to the module of car.
 # Specifications –L293D, BT module, LCD
 ##### 1-BT module after receiving the fingers’ posture, L293D must activate the motor direction.
 ##### 2-LCD displays the current direction that car immediately move.
