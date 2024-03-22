@@ -19,15 +19,15 @@
 ### 1-protous simulator.
 ### 2-Microchip Studio
 # Hardware
-1-ATMEGAxx or ATTINYxx for hand module.
-2-5x flexible sensor.
-3-Gloves && Wires.
-4-2x Battery 3.7 V.
-5-LM7805 voltage regulator, 2x 22uf capacitor.
-6-2x HC-05.
-7-L293D.
-8-Motors.
-9-Caster wheel.
-10-Chassis
+### 1-ATMEGAxx or ATTINYxx for hand module.
+### 2-5x flexible sensor.
+### 3-Gloves && Wires.
+### 4-2x Battery 3.7 V.
+### 5-LM7805 voltage regulator, 2x 22uf capacitor.
+### 6-2x HC-05.
+### 7-L293D.
+### 8-Motors.
+### 9-Caster wheel.
+### 10-Chassis
 # ![image](https://github.com/eslamwaled150/Controlling-Car-with-Hand-Mtion/assets/92927283/aaf7de2a-a806-45e7-8e4a-baa1c20b60d7)
 
