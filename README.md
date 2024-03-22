@@ -30,7 +30,7 @@ This project aims to control a car's direction and speed using hand or finger mo
 - Microchip Studio
 
 ## Hardware
-1. **ATMEGA32** for car module & **ATMEGA32** for hand module.
+1. **ATMEGA32A** for car module & **ATMEGA32A** for hand module.
 2. 5x **Flexible Sensors**.
 3. **Gloves & Wires**.
 4. 2x **Battery 3.7 V**.
