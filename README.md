@@ -18,12 +18,12 @@ This project aims to control a car's direction and speed using hand or finger mo
 
 ## Specifications
 ### Flexible Sensor & BT Module
-- Each finger has an individual sensor.
+- Each finger has an individual sensor to control the car's direction and speed.
 - Motion of fingers is detected and used to control the car's motors.
 
 ### L293D, BT Module, LCD
 - BT Module receives finger postures and activates motor direction via L293D.
-- LCD displays the current direction of the car.
+- LCD displays the current direction of the car & its speed.
 
 ## Software
 - Proteus Simulator
