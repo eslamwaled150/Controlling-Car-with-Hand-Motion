@@ -41,7 +41,7 @@ This project aims to control a car's direction and speed using hand or finger mo
 9. **Caster Wheel**.
 10. **Chassis**
 
-![image](https://github.com/eslamwaled150/Controlling-Car-with-Hand-Motion/assets/92927283/efad24b6-7abf-4ec4-b1ce-3e5fa84eeaf3)
+![image](https://github.com/eslamwaled150/Controlling-Car-with-Hand-Motion/assets/92927283/6b57bbb1-e2b6-40f2-b42e-63905cec71be)
 
 ## How to Use
 1. Assemble the hardware components according to the provided diagram.
